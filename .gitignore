@@ -1,6 +1,13 @@
 # ignore some directories
-_log/
-_dat/
+_dat
+_log
+3rdparty
+bin
+obj
+
+# hide my "debugger"
+.vs
+OpenEupho.sln
 
 # ignore compiled files
 *.exe
