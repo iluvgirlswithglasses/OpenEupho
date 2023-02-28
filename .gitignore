@@ -1,0 +1,7 @@
+# ignore some directories
+_log/
+_dat/
+
+# ignore compiled files
+*.exe
+*.dll
